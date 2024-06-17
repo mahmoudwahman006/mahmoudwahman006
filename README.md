@@ -23,7 +23,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON3)&nbsp;
+![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=PowerBi)&nbsp;
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat&logo=Web%20Scraping&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
