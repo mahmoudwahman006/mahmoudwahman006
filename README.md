@@ -14,7 +14,7 @@
 ### Working as a Python developer and data analyst at Assuit University Hospital Infection Control Department
 ### 🌱 Founder and CEO of Syntax For Smart Solution
 ### 💬 Ask me about <strong>Python, Data Science, Analysis, Engineering (Web scraping, PowerBi) and ML </strong>
-
+### 👯 Open for a new opportunity 
 ### Contact Me :
 
 <a href="[https://www.linkedin.com/in/mahmoud-wahman-a41848217]" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Wahmen-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
