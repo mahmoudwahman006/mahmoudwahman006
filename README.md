@@ -27,3 +27,13 @@
 ![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=PowerBi)&nbsp;
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat&logo=Web%20Scraping&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+### 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat&logo=Web-Scraping)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
+![Python Desktop Development](https://img.shields.io/badge/-Python%20Desktop%20Development-05122A?style=flat&logo=Python)&nbsp;
+![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-05122A?style=flat&logo=Mobile-Development)&nbsp;
+![Request API](https://img.shields.io/badge/-Request%20API-05122A?style=flat&logo=API)&nbsp;
