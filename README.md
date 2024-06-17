@@ -22,18 +22,20 @@
 <a href="mailto:mahmud962002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Wahman-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-
-![PYTHON](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON3)&nbsp;
-![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=PowerBi)&nbsp;
-![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat&logo=Web%20Scraping&logoColor=5C2D91)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-### 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=PowerBi)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat&logo=Web-Scraping)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
 ![Python Desktop Development](https://img.shields.io/badge/-Python%20Desktop%20Development-05122A?style=flat&logo=Python)&nbsp;
-![Mobile Development](https://img.shields.io/badge/-Mobile%20Development-05122A?style=flat&logo=Mobile-Development)&nbsp;
-![Request API](https://img.shields.io/badge/-Request%20API-05122A?style=flat&logo=API)&nbsp;
+![Python Mobile Development](https://img.shields.io/badge/-Mobile%20Development-05122A?style=flat&logo=Mobile-Development)&nbsp;
+![Python Request API](https://img.shields.io/badge/-Request%20API-05122A?style=flat&logo=API)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)&nbsp;
+![Adobe Designing](https://img.shields.io/badge/-Adobe%20Designing-05122A?style=flat&logo=Adobe-Creative-Cloud)&nbsp;
+### etc..
